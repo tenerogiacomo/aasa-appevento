@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "it.appevento.app",
+      "sha256_cert_fingerprints": [
+        "40:9A:B1:01:87:80:9F:5C:6D:45:27:61:9A:25:2B:D0:B9:E8:BB:31:34:E3:13:F9:4A:30:E2:56:A6:60:CE:12"
+      ]
+    }
+  }
+]
