@@ -1,2 +1,1 @@
-# aasa-appevento
-AASA for Evento App
+# aasa-appevento and Android assetlinks
